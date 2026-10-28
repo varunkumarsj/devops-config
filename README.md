@@ -12,12 +12,6 @@ Version 1: Initial project configuration
 
 Version 2: Updated DevOps project documentation
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Docker feature: Container configuration added.
-=======
 Jenkins feature: CI/CD pipeline configuration added.
->>>>>>> feature/jenkins
-=======
 Kubernetes feature: Deployment configuration added.
->>>>>>> feature/kubernetes
