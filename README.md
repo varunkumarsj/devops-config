@@ -11,3 +11,5 @@ This repository contains:
 Version 1: Initial project configuration
 
 Version 2: Updated DevOps project documentation
+
+Jenkins feature: CI/CD pipeline configuration added.
