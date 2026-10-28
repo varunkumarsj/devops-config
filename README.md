@@ -11,7 +11,3 @@ This repository contains:
 Version 1: Initial project configuration
 
 Version 2: Updated DevOps project documentation
-
-Docker feature: Container configuration added.
-Jenkins feature: CI/CD pipeline configuration added.
-Kubernetes feature: Deployment configuration added.
