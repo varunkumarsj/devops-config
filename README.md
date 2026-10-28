@@ -9,3 +9,5 @@ This repository contains:
 ## Git Version History
 
 Version 1: Initial project configuration
+
+Version 2: Updated DevOps project documentation
